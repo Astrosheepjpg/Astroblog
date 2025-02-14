@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://astrosheepjpg.github.io/Astroblog/sitemap.xml
+Sitemap: https://astrologysaga.com/sitemap.xml

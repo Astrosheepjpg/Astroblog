@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Astrology Saga</title>
-    <link href="https://astrosheepjpg.github.io/Astroblog/feed.xml" rel="self" />
-    <link href="https://astrosheepjpg.github.io/Astroblog" />
+    <link href="https://astrologysaga.com/feed.xml" rel="self" />
+    <link href="https://astrologysaga.com" />
     <updated>2025-02-13T14:11:44+01:00</updated>
     <author>
         <name>Alex</name>
     </author>
-    <id>https://astrosheepjpg.github.io/Astroblog</id>
+    <id>https://astrologysaga.com</id>
 
     <entry>
         <title>Hello!</title>
         <author>
             <name>Alex</name>
         </author>
-        <link href="https://astrosheepjpg.github.io/Astroblog/hello.html"/>
-        <id>https://astrosheepjpg.github.io/Astroblog/hello.html</id>
+        <link href="https://astrologysaga.com/hello.html"/>
+        <id>https://astrologysaga.com/hello.html</id>
             <category term="Sidereal"/>
 
         <updated>2025-02-13T10:07:10+01:00</updated>
